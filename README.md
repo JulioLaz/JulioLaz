@@ -20,15 +20,17 @@
         <div>
             <h2>Experiencia:</h2>
             <ul>
-                <li>Latam Helper en Alura Latam (2023 - 2024)</li>
                 <li>Docente en Ministerio de Educación, Tucumán, Argentina (2015 - Presente)</li>
+                <li>Latam Helper en Alura Latam (2023 - 2024)</li>
                 <!-- Agrega más elementos de experiencia laboral según sea necesario -->
             </ul>
         </div>
         <div>
             <h2>Proyectos Destacados:</h2>
             <ul>
-                <li><a href="https://github.com/JulioLaz/Consumer_Spending_Prediction_final">Consumer Spending Prediction</a></li>
+                <li><a href="https://github.com/JulioLaz/Consumer_Spending_Prediction_final">Consumer Spending Prediction</a>
+                    <img src="https://data.bloggif.com/distant/user/store/9/7/6/9/295848bfdfd7c2bb07089c0974d69679.gif" alt="proyect Consumer_Spending_Prediction">
+                </li>
                 <li><a href="https://github.com/JulioLaz/breast_cancer_nb">Breast Care: tumor</a></li>
                 <!-- Agrega más elementos de proyectos según sea necesario -->
             </ul>
