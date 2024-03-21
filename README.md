@@ -1,77 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perfil de GitHub - Julio Lazarte</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        .container {
-            max-width: 800px;
-            margin: 20px auto;
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        .profile-img {
-            text-align: center;
-        }
-        .profile-img img {
-            border-radius: 50%;
-            width: 150px;
-            height: 150px;
-            object-fit: cover;
-            margin-bottom: 20px;
-        }
-        .name {
-            text-align: center;
-            font-size: 24px;
-            font-weight: bold;
-            color: #333;
-        }
-        .about-me {
-            margin-top: 20px;
-            padding: 10px;
-            background-color: #f9f9f9;
-            border-radius: 8px;
-        }
-        .about-me h2 {
-            font-size: 20px;
-            color: #333;
-        }
-        .about-me p {
-            color: #666;
-        }
-        .section {
-            margin-top: 20px;
-        }
-        .section h2 {
-            font-size: 20px;
-            color: #333;
-        }
-        .section ul {
-            list-style: none;
-            padding: 0;
-        }
-        .section ul li {
-            margin-bottom: 10px;
-        }
-        .section ul li a {
-            text-decoration: none;
-            color: #007bff;
-        }
-    </style>
-</head>
 <body>
     <div class="container">
         <div class="profile-img">
-            <img src="https://avatars.githubusercontent.com/u/108642139?v=4" alt="Perfil de Julio Lazarte">
+            <img src="[https://avatars.githubusercontent.com/u/108642139?v=4](https://i.imgur.com/jpjqaTw.png)" alt="Perfil de Julio Lazarte">
         </div>
         <div class="name">
             Julio Alberto Lazarte
