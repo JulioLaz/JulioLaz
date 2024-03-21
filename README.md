@@ -3,7 +3,7 @@
 <body>
     <div class="container">
         <div class="profile-img">
-            <img src="[https://avatars.githubusercontent.com/u/108642139?v=4](https://i.imgur.com/jpjqaTw.png)" alt="Perfil de Julio Lazarte">
+            <img src="[https://i.imgur.com/jpjqaTw.png]" alt="Perfil de Julio Lazarte">
         </div>
         <div class="name">
             Julio Alberto Lazarte
