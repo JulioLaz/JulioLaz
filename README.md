@@ -9,9 +9,7 @@
             <h2>Sobre mi vida:</h2>
             <p align="justify">Soy Julio Lazarte, científico de datos especializado en el análisis, visualización, machine learning, business intelligence. Mi objetivo es lograr insight que aporten valor a las necesidades de empresas, para optimizar recursos, reducir gastos, prevenir pérdidas, generar mayores ingresos económicos. Mi formación tiene distintos pilares, por un lado en ciencias exactas con ingeniería, y por otro lado con formación humanística con filosofía. Además de formarme como Full stack Developer, actualmente me estoy profesionalizando en Ciencias de Datos en donde encontré mi pasión.</p>
         </div>
-                <p align="justify" style="border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
-            Soy Julio Lazarte, científico de datos especializado en el análisis, visualización, machine learning, business intelligence. Mi objetivo es lograr insight que aporten valor a las necesidades de empresas, para optimizar recursos, reducir gastos, prevenir pérdidas, generar mayores ingresos económicos. Mi formación tiene distintos pilares, por un lado en ciencias exactas con ingeniería, y por otro lado con formación humanística con filosofía. Además de formarme como Full stack Developer, actualmente me estoy profesionalizando en Ciencias de Datos en donde encontré mi pasión.
-        </p>
+
         <div class="section">
             <h2>Educación:</h2>
             <ul>
