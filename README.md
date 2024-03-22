@@ -3,7 +3,8 @@
 <body>
     <div class="container">
         <div class="profile-img">
-            <img src="https://i.imgur.com/A5zHCNp.png" alt="Perfil de Julio Lazarte">
+            <img src="https://i.imgur.com/OXrydlp.png" alt="Perfil de Julio Lazarte">
+<!--             <img src="https://i.imgur.com/A5zHCNp.png" alt="Perfil de Julio Lazarte"> -->
         </div>
         <div>
 <!--             <h2>Sobre mi vida:</h2> -->
