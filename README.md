@@ -92,6 +92,72 @@
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td width="32.5%">
+      <div align="center">
+        <h2 align="center">Credit Scoring Prediction</h2>
+        <a href="https://github.com/JulioLaz/credit_scoring_predict">
+          <img height="150" src="https://data.bloggif.com/distant/user/store/4/5/6/c/3dab381fd3104fd859619ec8f417c654.gif" alt="Proyecto Credit Scoring Prediction">
+        </a>
+        <p align="justify">Proyecto de Data Science: predicción de aceptación crediticia mediante clasificación binaria.</p>
+<!--           ### links ### -->
+          <p>
+            <a href="https://github.com/JulioLaz/credit_scoring_predict" target="_blank">
+            <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+              <span>-   -</span>
+            <a href="https://docs.google.com/document/d/e/2PACX-1vSMM760vAakmOgQUkxk1BwSxkJPHJFi7dpW8E0Yp0AHGyqGUX5T9k-DPufksjbUB6anNyZq-_1M5vK7/pub" target="_blank">
+            <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=red">
+            </a>
+            <a href="[https://breast-cancer-6c5r.onrender.com/](https://credit-scoring-c4mw.onrender.com/)" target="_blank">
+                <img src="https://img.shields.io/badge/APP-dimgray?style=for-the-badge&color=blue">
+            </a>              
+          </p>
+      </div>
+    </td>
+    <td width="32.5%">
+      <div align="center">
+        <h2 align="center">Breast Care: Tumor Prediction</h2>
+        <a href="https://github.com/JulioLaz/breast_cancer_nb">
+          <img height="150" src="https://data.bloggif.com/distant/user/store/9/d/b/0/c642322bd0354e57887f08fcc4fe0bd9.gif" alt="Proyecto Breast Care: tumor">
+<!--           <img src="https://i.imgur.com/ib4Ihxp.png" alt="Proyecto Breast Care: tumor"> -->
+        </a> 
+        <p align="justify">Machine learning: predicts if a tumor is malignant or benign based on data obtained from characteristics calculated from a digitized image.</p>
+<!--           ### links ### -->
+          <p>
+            <a href="https://github.com/JulioLaz/breast_cancer_nb" target="_blank">
+                <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+            <a href="https://docs.google.com/document/d/e/2PACX-1vT6ymI4Vh5vu5yHJli0GwgqfNtQ47m3_tPoK3Jf88-lfZCOMC-2MNwtfy6LdThYqesN1TSyFKH0Khx6/pub" target="_blank">
+                <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=red">
+            </a>
+            <a href="https://breast-cancer-6c5r.onrender.com/" target="_blank">
+                <img src="https://img.shields.io/badge/APP-dimgray?style=for-the-badge&color=blue">
+            </a>
+          </p>          
+      </div>
+    </td>
+    <td width="32.5%">
+      <div align="center">
+        <h2 align="center">COVID19 Analytics Global and country Argentina</h2>
+        <a href="https://github.com/JulioLaz/covid19_analytics">
+          <img height="150" src="https://data.bloggif.com/distant/user/store/1/3/d/d/a93fe7f9f3d81c483092bb6f91a5dd31.gif" alt="Proyecto COVID19 Analytics">
+        </a> 
+        <p align="justify">"Data Science Project: Analysis of COVID-19 among the most affected countries compared to Argentina."</p>
+<!--           ### links ### -->
+          <p>
+            <a href="https://github.com/JulioLaz/covid19_analytics" target="_blank">
+            <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+            <a href="https://drive.google.com/file/d/1ziTzsNIa5MGtEQQSudXgdZwed3eyiPLQ/view?usp=sharing" target="_blank">
+            <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=red">
+            </a>
+          </p>          
+      </div>
+    </td>
+  </tr>
+</table>
 
 
             
