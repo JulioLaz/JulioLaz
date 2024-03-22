@@ -45,7 +45,7 @@
             <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
             </a>
             <a href="https://docs.google.com/document/d/e/2PACX-1vQ35-uD6_F9F_apec8sDyLvSKMTEFxOnUC3wNFZJrpp21OjvGcG_Zh5RENIZFHXsbrs379Sc6uesmyk/pub" target="_blank">
-            <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=red">
+            <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=green">
             </a>
           </p>
       </div>
@@ -64,7 +64,7 @@
                 <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
             </a>
             <a href="https://docs.google.com/document/d/e/2PACX-1vT6ymI4Vh5vu5yHJli0GwgqfNtQ47m3_tPoK3Jf88-lfZCOMC-2MNwtfy6LdThYqesN1TSyFKH0Khx6/pub" target="_blank">
-                <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=red">
+                <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=green">
             </a>
             <a href="https://breast-cancer-6c5r.onrender.com/" target="_blank">
                 <img src="https://img.shields.io/badge/APP-dimgray?style=for-the-badge&color=blue">
@@ -85,7 +85,7 @@
             <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
             </a>
             <a href="https://drive.google.com/file/d/1ziTzsNIa5MGtEQQSudXgdZwed3eyiPLQ/view?usp=sharing" target="_blank">
-            <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=red">
+            <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=green">
             </a>
           </p>          
       </div>
@@ -108,29 +108,32 @@
             <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
             </a>
             <a href="https://docs.google.com/document/d/e/2PACX-1vSMM760vAakmOgQUkxk1BwSxkJPHJFi7dpW8E0Yp0AHGyqGUX5T9k-DPufksjbUB6anNyZq-_1M5vK7/pub" target="_blank">
-            <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=red">
+            <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=green">
             </a>
+            <a href="https://credit-scoring-c4mw.onrender.com/" target="_blank">
+                <img src="https://img.shields.io/badge/APP-dimgray?style=for-the-badge&color=blue">
+            </a>              
           </p>
       </div>
     </td>
     <td width="32.5%">
       <div align="center">
-        <h2 align="center">Breast Care: Tumor Prediction</h2>
-        <a href="https://github.com/JulioLaz/breast_cancer_nb">
-          <img height="150" src="https://data.bloggif.com/distant/user/store/9/d/b/0/c642322bd0354e57887f08fcc4fe0bd9.gif" alt="Proyecto Breast Care: tumor">
-<!--           <img src="https://i.imgur.com/ib4Ihxp.png" alt="Proyecto Breast Care: tumor"> -->
+        <h2 align="center">Supermarker Sales Analysis</h2>
+        <a href="https://github.com/JulioLaz/Supermarket_Sales_Analysis.git">
+          <img height="150" src="https://data.bloggif.com/distant/user/store/f/d/5/6/56757b86d1929d5de72cb2c039dd65df.gif" alt="Proyecto Supermarker Sales Analysis">
         </a> 
-        <p align="justify">Machine learning: predicts if a tumor is malignant or benign based on data obtained from characteristics calculated from a digitized image.</p>
+        <p align="justify">"Data Science Project: A supermarket chain operating in Brazil wants to gain insights into the sales of its products."</p>
 <!--           ### links ### -->
           <p>
-            <a href="https://github.com/JulioLaz/breast_cancer_nb" target="_blank">
+            <a href="https://github.com/JulioLaz/Supermarket_Sales_Analysis.git" target="_blank">
                 <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
             </a>
-            <a href="https://docs.google.com/document/d/e/2PACX-1vT6ymI4Vh5vu5yHJli0GwgqfNtQ47m3_tPoK3Jf88-lfZCOMC-2MNwtfy6LdThYqesN1TSyFKH0Khx6/pub" target="_blank">
-                <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=red">
+            <a href="https://docs.google.com/presentation/d/e/2PACX-1vTVyOOyEXpsN9xW9KmHVzuWuZ2nSOoxz_6IW7dmUH-OjKOe5OJN9mPWWZBT-XGgAjoThdzCgBCI6Fqh/pub?start=false&loop=false&delayms=3000" target="_blank">
+                <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=green">
             </a>
-            <a href="https://breast-cancer-6c5r.onrender.com/" target="_blank">
-                <img src="https://img.shields.io/badge/APP-dimgray?style=for-the-badge&color=blue">
+            <a href="https://www.youtube.com/watch?v=9QTmYNQD-ro" target="_blank">
+<!--                 <img src="https://img.shields.io/badge/YouTube-dimgray?style=for-the-badge&color=red"> -->
+                <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
             </a>
           </p>          
       </div>
