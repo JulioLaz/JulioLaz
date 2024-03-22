@@ -50,7 +50,7 @@
       <li>
         <h2>Consumer Spending Prediction</h2>
         <a href="https://github.com/JulioLaz/Consumer_Spending_Prediction_final">
-          <img src="https://i.imgur.com/DrIPDzP.png" alt="Proyecto Consumer Spending Prediction">
+          <img src="https://i.imgur.com/DZ3C6oq.png" alt="Proyecto Consumer Spending Prediction">
         </a>
         <p>Proyecto de Data Science: desarrollo de un modelo de machine learning que predice con precisión cuánto gastará un usuario al visitar dicho sitio web.</p>
       </li>
@@ -59,8 +59,7 @@
       <li>
         <h2>Breast Care: tumor</h2>
         <a href="https://github.com/JulioLaz/breast_cancer_nb">
-<!--           <img src="https://data.bloggif.com/distant/user/store/9/d/b/0/c642322bd0354e57887f08fcc4fe0bd9.gif" alt="Proyecto Breast Care: tumor"> -->
-          <img src="https://i.imgur.com/RHmzqMu.gif" alt="Proyecto Breast Care: tumor">
+          <img src="https://i.imgur.com/PSEdrf0.png" alt="Proyecto Breast Care: tumor">
         </a> 
         <p>Proyecto de ciencia de datos con machine learning utilizando Logistic Regression: predice si un tumor es maligno o benigno de acuerdo al conjunto de datos obtenidos de las características que se calculan a partir de una imagen digitalizada de una aspiración con aguja fina (PAAF) de una masa mamaria.</p>
       </li>
