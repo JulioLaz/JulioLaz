@@ -38,7 +38,7 @@
           <img height="150" src="https://data.bloggif.com/distant/user/store/9/7/6/9/295848bfdfd7c2bb07089c0974d69679.gif" alt="Proyecto Consumer Spending Prediction">
 <!--           <img src="https://i.imgur.com/DZ3C6oq.png" alt="Proyecto Consumer Spending Prediction"> -->
         </a>
-        <p align="justify">Data Science Project: development of a machine learning model that accurately predicts how much a user will spend when visiting the website.</p>
+        <p align="justify">Development of a machine learning model that accurately predicts how much a user will spend when visiting the website.</p>
 <!--           ### links ### -->
           <p>
             <a href="https://github.com/JulioLaz/Consumer_Spending_Prediction_final" target="_blank">
@@ -78,7 +78,7 @@
         <a href="https://github.com/JulioLaz/covid19_analytics">
           <img height="150" src="https://data.bloggif.com/distant/user/store/1/3/d/d/a93fe7f9f3d81c483092bb6f91a5dd31.gif" alt="Proyecto COVID19 Analytics">
         </a> 
-        <p align="justify">"Data Science Project: Analysis of COVID-19 among the most affected countries compared to Argentina."</p>
+        <p align="justify">"Analysis of COVID-19 among the most affected countries compared to Argentina."</p>
 <!--           ### links ### -->
           <p>
             <a href="https://github.com/JulioLaz/covid19_analytics" target="_blank">
@@ -101,7 +101,7 @@
         <a href="https://github.com/JulioLaz/credit_scoring_predict">
           <img height="150" src="https://data.bloggif.com/distant/user/store/6/e/c/0/c007905c4ffb8580d4639f20ace90ce6.gif" alt="Proyecto Credit Scoring Prediction">
         </a>
-        <p align="justify">"Data Science Project: Credit acceptance prediction through binary classification."</p>
+        <p align="justify">"Credit acceptance prediction through binary classification."</p>
 <!--           ### links ### -->
           <p>
             <a href="https://github.com/JulioLaz/credit_scoring_predict" target="_blank">
@@ -122,7 +122,7 @@
         <a href="https://github.com/JulioLaz/Supermarket_Sales_Analysis.git">
           <img height="150" src="https://data.bloggif.com/distant/user/store/f/d/5/6/56757b86d1929d5de72cb2c039dd65df.gif" alt="Proyecto Supermarker Sales Analysis">
         </a> 
-        <p align="justify">"Data Science Project: A supermarket chain operating in Brazil wants to gain insights into the sales of its products."</p>
+        <p align="justify">"A supermarket chain operating in Brazil wants to gain insights into the sales of its products."</p>
 <!--           ### links ### -->
           <p>
             <a href="https://github.com/JulioLaz/Supermarket_Sales_Analysis.git" target="_blank">
@@ -132,7 +132,6 @@
                 <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=green">
             </a>
             <a href="https://www.youtube.com/watch?v=9QTmYNQD-ro" target="_blank">
-<!--                 <img src="https://img.shields.io/badge/YouTube-dimgray?style=for-the-badge&color=red"> -->
                 <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
             </a>
           </p>          
@@ -140,45 +139,20 @@
     </td>
     <td width="32.5%">
       <div align="center">
-        <h2 align="center">COVID19 Analytics Global and country Argentina</h2>
-        <a href="https://github.com/JulioLaz/covid19_analytics">
-          <img height="150" src="https://data.bloggif.com/distant/user/store/1/3/d/d/a93fe7f9f3d81c483092bb6f91a5dd31.gif" alt="Proyecto COVID19 Analytics">
+        <h2 align="center">Robot Trading</h2>
+        <a href="https://github.com/JulioLaz/robot_trading_bitcoin_app.git">
+          <img height="150" src="https://i.imgur.com/RfH4nkk.png" alt="Proyecto Robot Trading">
         </a> 
-        <p align="justify">"Data Science Project: Analysis of COVID-19 among the most affected countries compared to Argentina."</p>
+        <p align="justify">"Obtain buy/sell/hold decision using decision algorithm. Indicators: RSI, MA50/200, MACD. Predictive method: ARIMA/Random Forest Regressor."</p>
 <!--           ### links ### -->
           <p>
-            <a href="https://github.com/JulioLaz/covid19_analytics" target="_blank">
+            <a href="https://github.com/JulioLaz/robot_trading_bitcoin_app.git" target="_blank">
             <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
             </a>
-            <a href="https://drive.google.com/file/d/1ziTzsNIa5MGtEQQSudXgdZwed3eyiPLQ/view?usp=sharing" target="_blank">
-            <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=red">
+            <a href="https://youtu.be/aebFvd9EHl8" target="_blank">
+                <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
             </a>
           </p>          
-      </div>
-    </td>
-  </tr>
-</table>
-
-
-            
-<table>
-  <tr>
-    <td width="50%">
-      <div>
-        <h2 align="center">Consumer Spending Prediction</h2>
-        <a href="https://github.com/JulioLaz/Consumer_Spending_Prediction_final">
-          <img src="https://i.imgur.com/DZ3C6oq.png" alt="Proyecto Consumer Spending Prediction">
-        </a>
-        <p>Data Science Project: development of a machine learning model that accurately predicts how much a user will spend when visiting the website.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <div>
-        <h2 align="center">Breast Care: tumor</h2>
-        <a href="https://github.com/JulioLaz/breast_cancer_nb">
-          <img src="https://i.imgur.com/ib4Ihxp.png" alt="Proyecto Breast Care: tumor">
-        </a> 
-        <p>Machine learning: predicts if a tumor is malignant or benign based on data obtained from characteristics calculated from a digitized image.</p>
       </div>
     </td>
   </tr>
