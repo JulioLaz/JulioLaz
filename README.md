@@ -179,14 +179,15 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/julio-lazarte-developer/" target="blank">
-<!--     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-  <img src="https://skillicons.dev/icons?i=linkedin&perline=14" /> -->
+  <img src="https://skillicons.dev/icons?i=linkedin&perline=14" /> 
 </a>
 <a href="mailto:julioalbertolazarte00@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail&perline=14" />
 </a>
 </p>
-
+[![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mr-maike)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julio-lazarte-developer/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:julioalbertolazarte00@gmail.com)
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
