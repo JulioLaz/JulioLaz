@@ -29,7 +29,7 @@
             <h2>Proyectos Destacados:</h2>
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <div>
         <h2>Consumer Spending Prediction</h2>
         <a href="https://github.com/JulioLaz/Consumer_Spending_Prediction_final">
@@ -38,7 +38,7 @@
         <p>Proyecto de Data Science: desarrollo de un modelo de machine learning que predice con precisión cuánto gastará un usuario al visitar dicho sitio web.</p>
       </div>
     </td>
-    <td>
+    <td width="50%">
       <div>
         <h2>Breast Care: tumor</h2>
         <a href="https://github.com/JulioLaz/breast_cancer_nb">
