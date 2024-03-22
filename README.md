@@ -3,7 +3,7 @@
 <body>
     <div class="container">
         <div class="profile-img">
-            <img src="https://i.imgur.com/jpjqaTw.png" alt="Perfil de Julio Lazarte">
+            <img src="https://i.imgur.com/A5zHCNp.png" alt="Perfil de Julio Lazarte">
         </div>
         <div>
             <h2>Sobre mi vida:</h2>
@@ -31,20 +31,20 @@
   <tr>
     <td width="50%">
       <div>
-        <h2>Consumer Spending Prediction</h2>
+        <h2 align="center">Consumer Spending Prediction</h2>
         <a href="https://github.com/JulioLaz/Consumer_Spending_Prediction_final">
           <img src="https://i.imgur.com/DZ3C6oq.png" alt="Proyecto Consumer Spending Prediction">
         </a>
-        <p>Proyecto de Data Science: desarrollo de un modelo de machine learning que predice con precisión cuánto gastará un usuario al visitar dicho sitio web.</p>
+        <p>Data Science Project: development of a machine learning model that accurately predicts how much a user will spend when visiting the website.</p>
       </div>
     </td>
     <td width="50%">
       <div>
-        <h2>Breast Care: tumor</h2>
+        <h2 align="center">Breast Care: tumor</h2>
         <a href="https://github.com/JulioLaz/breast_cancer_nb">
           <img src="https://i.imgur.com/ib4Ihxp.png" alt="Proyecto Breast Care: tumor">
         </a> 
-        <p>Proyecto de ciencia de datos con machine learning utilizando Logistic Regression: predice si un tumor es maligno o benigno de acuerdo al conjunto de datos obtenidos de las características que se calculan a partir de una imagen digitalizada de una aspiración con aguja fina (PAAF) de una masa mamaria.</p>
+        <p>Machine learning: predicts if a tumor is malignant or benign based on data obtained from characteristics calculated from a digitized image of fine needle aspiration of a breast mass.</p>
       </div>
     </td>
   </tr>
