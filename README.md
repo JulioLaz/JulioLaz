@@ -5,12 +5,11 @@
         <div class="profile-img">
             <img src="https://i.imgur.com/OXrydlp.png" alt="Perfil de Julio Lazarte">
 <!--             <img src="https://i.imgur.com/A5zHCNp.png" alt="Perfil de Julio Lazarte"> -->
-<!--             <img src="https://i.imgur.com/yGExPxT.png" alt="QR cv web"> -->
         </div>
-        <div>
-<!--             <h2>Sobre mi vida:</h2> -->
-            <h2>Hi, I'm<strong> Julio Lazarte</strong></p></h2>
-            <p align="justify">Científico de datos especializado en el análisis, visualización, machine learning, business intelligence. Mi objetivo es lograr insight que aporten valor a las necesidades de empresas, para optimizar recursos, reducir gastos, prevenir pérdidas, generar mayores ingresos económicos. Mi formación tiene distintos pilares, por un lado en ciencias exactas con ingeniería, y por otro lado con formación humanística con filosofía. Además de formarme como Full stack Developer, actualmente me estoy profesionalizando en Ciencias de Datos en donde encontré mi pasión.</p>
+        <div align="center">
+            <h2>Hi, I'm<strong> Julio Lazarte</strong>, visit my web portfolio</p></h2>
+<!--             <p align="justify">Científico de datos especializado en el análisis, visualización, machine learning, business intelligence. Mi objetivo es lograr insight que aporten valor a las necesidades de empresas, para optimizar recursos, reducir gastos, prevenir pérdidas, generar mayores ingresos económicos. Mi formación tiene distintos pilares, por un lado en ciencias exactas con ingeniería, y por otro lado con formación humanística con filosofía. Además de formarme como Full stack Developer, actualmente me estoy profesionalizando en Ciencias de Datos en donde encontré mi pasión.</p> -->
+            <img src="https://i.imgur.com/jRve0ff.png" alt="QR cv web">
         </div>
 <!--         <div>
             <h2>Educación:</h2>
@@ -160,16 +159,9 @@
 </table>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,figma,firebase,github,html,java,js,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
 </p>
 
-![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
