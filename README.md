@@ -42,7 +42,7 @@
       <div>
         <h2>Breast Care: tumor</h2>
         <a href="https://github.com/JulioLaz/breast_cancer_nb">
-          <img src="https://i.imgur.com/PSEdrf0.png" alt="Proyecto Breast Care: tumor">
+          <img src="https://i.imgur.com/ib4Ihxp.png" alt="Proyecto Breast Care: tumor">
         </a> 
         <p>Proyecto de ciencia de datos con machine learning utilizando Logistic Regression: predice si un tumor es maligno o benigno de acuerdo al conjunto de datos obtenidos de las características que se calculan a partir de una imagen digitalizada de una aspiración con aguja fina (PAAF) de una masa mamaria.</p>
       </div>
