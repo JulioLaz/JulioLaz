@@ -79,6 +79,8 @@
   </a>
 </p>
 
+![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -102,6 +104,13 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/JulioLaz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JulioLaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JulioLaz&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 Last Edited on: 21/march/2024
 </body>
