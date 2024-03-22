@@ -32,35 +32,69 @@
   <tr>
     <td width="32.5%">
       <div align="center">
-        <h3 align="center">Consumer Spending Prediction</h3>
+        <h2 align="center">Consumer Spending Prediction</h2>
         <a href="https://github.com/JulioLaz/Consumer_Spending_Prediction_final">
-          <img src="https://data.bloggif.com/distant/user/store/9/7/6/9/295848bfdfd7c2bb07089c0974d69679.gif" alt="Proyecto Consumer Spending Prediction">
+          <img height="150" src="https://data.bloggif.com/distant/user/store/9/7/6/9/295848bfdfd7c2bb07089c0974d69679.gif" alt="Proyecto Consumer Spending Prediction">
 <!--           <img src="https://i.imgur.com/DZ3C6oq.png" alt="Proyecto Consumer Spending Prediction"> -->
         </a>
         <p align="justify">Data Science Project: development of a machine learning model that accurately predicts how much a user will spend when visiting the website.</p>
+<!--           ### links ### -->
+          <p>
+            <a href="https://github.com/JulioLaz/Consumer_Spending_Prediction_final" target="_blank">
+            <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+              <span>-   -</span>
+            <a href="https://docs.google.com/document/d/e/2PACX-1vQ35-uD6_F9F_apec8sDyLvSKMTEFxOnUC3wNFZJrpp21OjvGcG_Zh5RENIZFHXsbrs379Sc6uesmyk/pub" target="_blank">
+            <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=red">
+            </a>
+          </p>
       </div>
     </td>
     <td width="32.5%">
       <div align="center">
-        <h2 align="center">Breast Care: tumor</h2>
+        <h2 align="center">Breast Care: Tumor Prediction</h2>
         <a href="https://github.com/JulioLaz/breast_cancer_nb">
-          <img src="https://data.bloggif.com/distant/user/store/9/d/b/0/c642322bd0354e57887f08fcc4fe0bd9.gif" alt="Proyecto Breast Care: tumor">
+          <img height="150" src="https://data.bloggif.com/distant/user/store/9/d/b/0/c642322bd0354e57887f08fcc4fe0bd9.gif" alt="Proyecto Breast Care: tumor">
 <!--           <img src="https://i.imgur.com/ib4Ihxp.png" alt="Proyecto Breast Care: tumor"> -->
         </a> 
-        <p align="justify">Machine learning: predicts if a tumor is malignant or benign based on data obtained from characteristics calculated from a digitized image of fine needle aspiration of a breast mass.</p>
+        <p align="justify">Machine learning: predicts if a tumor is malignant or benign based on data obtained from characteristics calculated from a digitized image.</p>
+<!--           ### links ### -->
+          <p>
+            <a href="https://github.com/JulioLaz/breast_cancer_nb" target="_blank">
+                <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+            <a href="https://docs.google.com/document/d/e/2PACX-1vT6ymI4Vh5vu5yHJli0GwgqfNtQ47m3_tPoK3Jf88-lfZCOMC-2MNwtfy6LdThYqesN1TSyFKH0Khx6/pub" target="_blank">
+                <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=red">
+            </a>
+            <a href="https://breast-cancer-6c5r.onrender.com/" target="_blank">
+                <img src="https://img.shields.io/badge/APP-dimgray?style=for-the-badge&color=blue">
+            </a>
+          </p>          
       </div>
     </td>
     <td width="32.5%">
       <div align="center">
-        <h2 align="center">COVID19 Analytics</h2>
-        <a href="https://github.com/JulioLaz/breast_cancer_nb">
-          <img src="https://data.bloggif.com/distant/user/store/1/3/d/d/a93fe7f9f3d81c483092bb6f91a5dd31.gif" alt="Proyecto COVID19 Analytics">
+        <h2 align="center">COVID19 Analytics Global and country Argentina</h2>
+        <a href="https://github.com/JulioLaz/covid19_analytics">
+          <img height="150" src="https://data.bloggif.com/distant/user/store/1/3/d/d/a93fe7f9f3d81c483092bb6f91a5dd31.gif" alt="Proyecto COVID19 Analytics">
         </a> 
         <p align="justify">"Data Science Project: Analysis of COVID-19 among the most affected countries compared to Argentina."</p>
+<!--           ### links ### -->
+          <p>
+            <a href="https://github.com/JulioLaz/covid19_analytics" target="_blank">
+            <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+            <a href="https://drive.google.com/file/d/1ziTzsNIa5MGtEQQSudXgdZwed3eyiPLQ/view?usp=sharing" target="_blank">
+            <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=red">
+            </a>
+          </p>          
       </div>
     </td>
   </tr>
 </table>
+
+
+            
 <table>
   <tr>
     <td width="50%">
@@ -104,11 +138,6 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/julio-lazarte-developer/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<!-- <a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a>  -->
-<!-- <a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a> -->
-<!-- <a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a> -->
-<!-- <a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a> -->
-  
 </p>
 
 
