@@ -28,8 +28,11 @@
         <div>
             <h2>Proyectos Destacados:</h2>
             <ul>
-                <li><a href="https://github.com/JulioLaz/Consumer_Spending_Prediction_final">Consumer Spending Prediction</a>
+                <li>
+                    <h2>Consumer Spending Prediction</h2>
+                    <a href="https://github.com/JulioLaz/Consumer_Spending_Prediction_final">
                     <img src="https://i.imgur.com/DrIPDzP.png" alt="proyect Consumer_Spending_Prediction"> ##https://i.imgur.com/DrIPDzP.png
+                    </a>
                 </li>
                 <li><a href="https://github.com/JulioLaz/breast_cancer_nb">Breast Care: tumor</a></li>
                 <!-- Agrega más elementos de proyectos según sea necesario -->
