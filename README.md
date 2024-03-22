@@ -110,7 +110,7 @@
             <a href="https://docs.google.com/document/d/e/2PACX-1vSMM760vAakmOgQUkxk1BwSxkJPHJFi7dpW8E0Yp0AHGyqGUX5T9k-DPufksjbUB6anNyZq-_1M5vK7/pub" target="_blank">
             <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=red">
             </a>
-            <a href="[https://breast-cancer-6c5r.onrender.com/](https://credit-scoring-c4mw.onrender.com/)" target="_blank">
+            <a href="https://credit-scoring-c4mw.onrender.com/" target="_blank">
                 <img src="https://img.shields.io/badge/APP-dimgray?style=for-the-badge&color=blue">
             </a>              
           </p>
