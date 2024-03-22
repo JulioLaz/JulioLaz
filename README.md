@@ -32,7 +32,7 @@
   <tr>
     <td width="32.5%">
       <div align="center">
-        <h2 align="center">Consumer Spending Prediction</h2>
+        <h3 align="center">Consumer Spending Prediction</h3>
         <a href="https://github.com/JulioLaz/Consumer_Spending_Prediction_final">
           <img src="https://data.bloggif.com/distant/user/store/9/7/6/9/295848bfdfd7c2bb07089c0974d69679.gif" alt="Proyecto Consumer Spending Prediction">
 <!--           <img src="https://i.imgur.com/DZ3C6oq.png" alt="Proyecto Consumer Spending Prediction"> -->
@@ -78,7 +78,7 @@
         <a href="https://github.com/JulioLaz/breast_cancer_nb">
           <img src="https://i.imgur.com/ib4Ihxp.png" alt="Proyecto Breast Care: tumor">
         </a> 
-        <p>Machine learning: predicts if a tumor is malignant or benign based on data obtained from characteristics calculated from a digitized image of fine needle aspiration of a breast mass.</p>
+        <p>Machine learning: predicts if a tumor is malignant or benign based on data obtained from characteristics calculated from a digitized image.</p>
       </div>
     </td>
   </tr>
