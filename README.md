@@ -92,13 +92,14 @@
     </td>
   </tr>
 </table>
+            
 <table>
   <tr>
     <td width="32.5%">
       <div align="center">
         <h2 align="center">Credit Scoring Prediction</h2>
         <a href="https://github.com/JulioLaz/credit_scoring_predict">
-          <img height="150" src="https://data.bloggif.com/distant/user/store/4/5/6/c/3dab381fd3104fd859619ec8f417c654.gif" alt="Proyecto Credit Scoring Prediction">
+          <img height="150" src="https://data.bloggif.com/distant/user/store/6/e/c/0/c007905c4ffb8580d4639f20ace90ce6.gif" alt="Proyecto Credit Scoring Prediction">
         </a>
         <p align="justify">Proyecto de Data Science: predicción de aceptación crediticia mediante clasificación binaria.</p>
 <!--           ### links ### -->
@@ -106,7 +107,6 @@
             <a href="https://github.com/JulioLaz/credit_scoring_predict" target="_blank">
             <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
             </a>
-              <span>-   -</span>
             <a href="https://docs.google.com/document/d/e/2PACX-1vSMM760vAakmOgQUkxk1BwSxkJPHJFi7dpW8E0Yp0AHGyqGUX5T9k-DPufksjbUB6anNyZq-_1M5vK7/pub" target="_blank">
             <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=red">
             </a>
