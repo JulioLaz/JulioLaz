@@ -1,21 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
 <body>
-    <div class="container">
         <div class="profile-img">
             <img src="https://i.imgur.com/OXrydlp.png" alt="Perfil de Julio Lazarte">
-<!--             <img src="https://i.imgur.com/A5zHCNp.png" alt="Perfil de Julio Lazarte"> -->
         </div>
-        <div align="center" width="80%">
+        <div>
             <h2>Hi, I'm<strong> Julio Lazarte</strong>, visit my web portfolio</p></h2>
-<!--             <p align="justify">Científico de datos especializado en el análisis, visualización, machine learning, business intelligence. Mi objetivo es lograr insight que aporten valor a las necesidades de empresas, para optimizar recursos, reducir gastos, prevenir pérdidas, generar mayores ingresos económicos. Mi formación tiene distintos pilares, por un lado en ciencias exactas con ingeniería, y por otro lado con formación humanística con filosofía. Además de formarme como Full stack Developer, actualmente me estoy profesionalizando en Ciencias de Datos en donde encontré mi pasión.</p> -->
-            <p align="center" width="80%">
-            <img align="center" width="60%" src="https://i.imgur.com/jRve0ff.png" alt="QR cv web">
+            <p >
+            <img align="center" width="60%" src="https://i.imgur.com/vwjUS2W.png" alt="QR cv web">
             </p>
         </div>
         <h2 align="center">Featured projects:</h2> 
-        <img  src="https://i.imgur.com/vwjUS2W.png" alt="Proyecto Consumer Spending Prediction">
-
+        <img  src="https://i.imgur.com/wcHiYE6.png" alt="Proyecto Consumer Spending Prediction">
 <table>
   <tr>
     <td width="32.5%">
@@ -157,23 +151,26 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/julio-lazarte-developer/" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin&perline=14" /> 
-</a>
+    <a href="https://www.linkedin.com/in/julio-lazarte-developer/" target="blank">
+      <img src="https://skillicons.dev/icons?i=linkedin&perline=14" /> 
+    </a>
 </p>
 <p align="center">
-<img height="100px" width="100px" src="https://i.imgur.com/yGExPxT.png" alt="QR cv web">
+    <img height="100px" width="100px" src="https://i.imgur.com/yGExPxT.png" alt="QR cv web">
 </p>
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/JulioLaz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JulioLaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JulioLaz&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+    <a href="https://github.com/JulioLaz">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JulioLaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JulioLaz&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
 </p>
 
+<p>
 Last Edited on: 21/march/2024
+</p>
 </body>
