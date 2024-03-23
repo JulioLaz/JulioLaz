@@ -6,10 +6,12 @@
             <img src="https://i.imgur.com/OXrydlp.png" alt="Perfil de Julio Lazarte">
 <!--             <img src="https://i.imgur.com/A5zHCNp.png" alt="Perfil de Julio Lazarte"> -->
         </div>
-        <div align="center">
+        <div align="center" width="80%">
             <h2>Hi, I'm<strong> Julio Lazarte</strong>, visit my web portfolio</p></h2>
 <!--             <p align="justify">Científico de datos especializado en el análisis, visualización, machine learning, business intelligence. Mi objetivo es lograr insight que aporten valor a las necesidades de empresas, para optimizar recursos, reducir gastos, prevenir pérdidas, generar mayores ingresos económicos. Mi formación tiene distintos pilares, por un lado en ciencias exactas con ingeniería, y por otro lado con formación humanística con filosofía. Además de formarme como Full stack Developer, actualmente me estoy profesionalizando en Ciencias de Datos en donde encontré mi pasión.</p> -->
-            <img src="https://i.imgur.com/jRve0ff.png" alt="QR cv web">
+            <p align="center" width="80%">
+            <img align="center" width="60%" src="https://i.imgur.com/jRve0ff.png" alt="QR cv web">
+            </p>
         </div>
 <!--         <div>
             <h2>Educación:</h2>
