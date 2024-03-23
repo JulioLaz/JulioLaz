@@ -5,9 +5,7 @@
         <div align="center">
 <!--             <h3>Hi, I'm<strong> Julio Lazarte</strong>, visit my web portfolio, scan the code.</p></h3> -->
                 <p align="center">
-                  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=1300&height=100&lines=Hi,+I'm+Julio+Lazarte,+visit+my+web+portfolio,+scan+the+code..."></a>
-<!--                 </p>
-            <p > -->
+                  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=navy&size=35&center=true&vCenter=true&width=1300&height=100&lines=Hi,+I'm+Julio+Lazarte,+visit+my+web+portfolio,+scan+the+code..."></a>
             <img align="center" width="60%" src="https://i.imgur.com/vwjUS2W.png" alt="QR cv web">
             </p>
         </div>
@@ -150,8 +148,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
     <a href="https://github.com/JulioLaz">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JulioLaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JulioLaz&layout=compact&langs_count=8&theme=algolia"/>
+        <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JulioLaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JulioLaz&layout=compact&langs_count=8&theme=algolia"/>
     </a>
 </p>
 
@@ -168,7 +166,7 @@
 
 <p align="center"><strong>Last Edited on: 21/march/2024</strong></p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=45&center=true&vCenter=true&width=800&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<1"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=45&center=true&vCenter=true&width=1400&height=100&lines=Thank+you+for+your+visit;If+you+like+my+projects+give+me+a+star"></a>
 </p>
-<div>font=Time+New+Roman&color=cyan&size=45&center=true&vCenter=true&width=800&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></div>
+
 </body>
