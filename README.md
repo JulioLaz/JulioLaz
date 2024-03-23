@@ -3,11 +3,11 @@
             <img src="https://i.imgur.com/OXrydlp.png" alt="Perfil de Julio Lazarte">
         </div> -->
         <div align="center">
-            <h3>Hi, I'm<strong> Julio Lazarte</strong>, visit my web portfolio, click the image or scan the code.</p></h3>
+<!--             <h3>Hi, I'm<strong> Julio Lazarte</strong>, visit my web portfolio, click the image or scan the code.</p></h3> -->
                 <p align="center">
                         <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=navy&size=45&center=true&vCenter=true&width=1300&height=100&lines=Hi,+I'm+Julio+Lazarte"></a>
                         <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=navy&size=35&center=true&vCenter=true&width=1300&height=100&lines=visit+my+web+portfolio,+click+the+image+or+scan+the+code..."></a>
-                        <a href="https://cv-lazarte-julio.web.app/" target="_blank"><img align="center" width="60%" src="https://i.imgur.com/vwjUS2W.png" alt="QR cv web"></a>
+                        <a href="https://cv-lazarte-julio.web.app/" target="_blank"><img align="center" width="80%" src="https://i.imgur.com/vwjUS2W.png" alt="QR cv web"></a>
                 </p>
         </div>
         <h2 align="center">Featured projects:</h2> 
