@@ -143,25 +143,6 @@
     <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,figma,firebase,github,html,java,js,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
 </p>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-    <a href="https://www.linkedin.com/in/julio-lazarte-developer/" target="blank">
-      <img src="https://skillicons.dev/icons?i=linkedin&perline=14" /> 
-    </a>
-</p>
-<p align="center">
-        <h3 align="center">My email</h3>
-        <img align="center" height="100px" width="100px" src="https://i.imgur.com/SsXk3TF.png" alt="QR cv web">
-</p>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
@@ -171,7 +152,22 @@
     </a>
 </p>
 
-<p>
-Last Edited on: 21/march/2024
-</p>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+<div align="center">
+    <a href="https://www.linkedin.com/in/julio-lazarte-developer/" target="blank">
+      <img src="https://skillicons.dev/icons?i=linkedin&perline=14" /> 
+    </a>
+</div>
+<div id="user-content-toc" align="center">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">My email</h2></summary>
+  </ul>
+        <img height="100px" width="100px" src="https://i.imgur.com/SsXk3TF.png" alt="QR cv web">
+</div>
+
+<p align="center"><strong>Last Edited on: 21/march/2024</strong></p>
 </body>
