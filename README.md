@@ -13,7 +13,9 @@
                         <a href="https://cv-lazarte-julio.web.app/" target="_blank"><img align="center" width="80%" src="https://i.imgur.com/vwjUS2W.png" alt="QR cv web"></a>
                 </p>
         </div>
-        <h2 align="center">Featured projects:</h2> 
+        <h2 align="center">
+            <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=6784f9&background=fae280&size=40&center=true&vCenter=true&width=1000&height=60&duration=800&lines=Most+prominent+projects"></a>            
+        </h2>
         <img  src="https://i.imgur.com/wcHiYE6.png" alt="Proyecto Consumer Spending Prediction">
 <table>
   <tr>
@@ -170,7 +172,8 @@
 
 <p align="center"><strong>Last Edited on: 21/march/2024</strong></p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=45&center=true&vCenter=true&width=1400&height=100&lines=Thank+you+for+your+visit;If+you+like+my+projects+give+me+a+star"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=45&center=true&vCenter=true&duration=1000&width=1400&height=100&lines=Thank+you+for+your+visit"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=45&center=true&vCenter=true&duration=1000&width=1400&height=100&lines=If+you+like+my+projects+give+me+a+star"></a>
 </p>
 
 </body>
