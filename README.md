@@ -13,23 +13,8 @@
             <img align="center" width="60%" src="https://i.imgur.com/jRve0ff.png" alt="QR cv web">
             </p>
         </div>
-<!--         <div>
-            <h2>Educación:</h2>
-            <ul>
-                <li><a href="https://bootcampxperience.com/">Bootcamp Data Science - El profe Alejo (Cursando)</a></li>
-                <li><a href="https://www.aluracursos.com/bootcamp-datos">Bootcamp Data Science - Alura Latan (Completado)</a></li>
-            </ul>
-        </div>
-        <div>
-            <h2>Experiencia:</h2>
-            <ul>
-                <li>Docente en Ministerio de Educación, Tucumán, Argentina (2015 - Presente)</li>
-                <li>Latam Helper en Alura Latam (2023 - 2024)</li>
-            </ul>
-        </div>
-        <div> -->
-            <h2 align="center">Featured projects:</h2> 
-          <img  src="https://i.imgur.com/wcHiYE6.png" alt="Proyecto Consumer Spending Prediction">
+        <h2 align="center">Featured projects:</h2> 
+        <img  src="https://i.imgur.com/vwjUS2W.png" alt="Proyecto Consumer Spending Prediction">
 
 <table>
   <tr>
