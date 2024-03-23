@@ -2,8 +2,8 @@
         <div class="profile-img">
             <img src="https://i.imgur.com/OXrydlp.png" alt="Perfil de Julio Lazarte">
         </div>
-        <div>
-            <h2>Hi, I'm<strong> Julio Lazarte</strong>, visit my web portfolio</p></h2>
+        <div align="center">
+            <h3>Hi, I'm<strong> Julio Lazarte</strong>, visit my web portfolio, scan the code.</p></h3>
             <p >
             <img align="center" width="60%" src="https://i.imgur.com/vwjUS2W.png" alt="QR cv web">
             </p>
@@ -156,7 +156,8 @@
     </a>
 </p>
 <p align="center">
-    <img height="100px" width="100px" src="https://i.imgur.com/yGExPxT.png" alt="QR cv web">
+        <h3 align="center">My email</h3>
+        <img align="center" height="100px" width="100px" src="https://i.imgur.com/SsXk3TF.png" alt="QR cv web">
 </p>
 
 <!--horizontal divider(gradiant)-->
