@@ -3,8 +3,11 @@
             <img src="https://i.imgur.com/OXrydlp.png" alt="Perfil de Julio Lazarte">
         </div>
         <div align="center">
-            <h3>Hi, I'm<strong> Julio Lazarte</strong>, visit my web portfolio, scan the code.</p></h3>
-            <p >
+<!--             <h3>Hi, I'm<strong> Julio Lazarte</strong>, visit my web portfolio, scan the code.</p></h3> -->
+                <p align="center">
+                  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=1300&height=100&lines=Hi,+I'm+Julio+Lazarte,+visit+my+web+portfolio,+scan+the+code..."></a>
+<!--                 </p>
+            <p > -->
             <img align="center" width="60%" src="https://i.imgur.com/vwjUS2W.png" alt="QR cv web">
             </p>
         </div>
@@ -139,9 +142,9 @@
   </tr>
 </table>
 
-<p align="center">
+<!-- p align="center">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,figma,firebase,github,html,java,js,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
-</p>
+</p -->
 
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -155,19 +158,17 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-<div align="center">
     <a href="https://www.linkedin.com/in/julio-lazarte-developer/" target="blank">
       <img src="https://skillicons.dev/icons?i=linkedin&perline=14" /> 
     </a>
-</div>
-<div id="user-content-toc" align="center">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">My email</h2></summary>
-  </ul>
+        <summary><h2 style="display: inline-block">My email</h2></summary>
         <img height="100px" width="100px" src="https://i.imgur.com/SsXk3TF.png" alt="QR cv web">
+  </ul>
 </div>
 
 <p align="center"><strong>Last Edited on: 21/march/2024</strong></p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=45&center=true&vCenter=true&width=800&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<1"></a>
+</p>
+<div>font=Time+New+Roman&color=cyan&size=45&center=true&vCenter=true&width=800&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></div>
 </body>
