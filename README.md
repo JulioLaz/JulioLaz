@@ -160,11 +160,16 @@
     <tr>
       <td  height="80px">
         <a href="https://www.linkedin.com/in/julio-lazarte-developer/" target="_blank">
-          <img src="https://skillicons.dev/icons?i=linkedin&perline=16" /> 
+          <img  src="https://skillicons.dev/icons?i=linkedin&perline=16" /> 
+        </a>
+      </td>
+      <td  height="80px">
+        <a href="https://www.youtube.com/channel/UC0e27iTdQOx_cWnbppGaptA" target="_blank">
+          <img height="70px" src="https://user-images.githubusercontent.com/47686437/168548113-b3cd4206-3281-445b-b7c6-bc0a3251293d.png" /> 
         </a>
       </td>
       <td>
-        <img height="60px" width="60px" src="https://i.imgur.com/SsXk3TF.png" alt="QR cv web">
+        <img height="70px" width="70px" src="https://i.imgur.com/SsXk3TF.png" alt="QR cv web">
       </td>
     </tr>
   </table>
