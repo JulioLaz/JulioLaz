@@ -167,8 +167,8 @@
 
 <p align="center"><strong>Last Edited on: 21/march/2024</strong></p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=45&center=true&vCenter=true&duration=1000&width=1400&height=100&lines=Thank+you+for+your+visit"></a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=45&center=true&vCenter=true&duration=1000&width=1400&height=100&lines=If+you+like+my+projects+give+me+a+star"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=45&center=true&vCenter=true&duration=1200&width=1400&height=100&lines=Thank+you+for+your+visit">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=45&center=true&vCenter=true&duration=1200&width=1400&height=100&lines=If+you+like+my+projects+give+me+a+⭐star⭐">
 </p>
 
 </body>
