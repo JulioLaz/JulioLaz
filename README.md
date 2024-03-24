@@ -156,19 +156,19 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2>Connect With Me🤝</h2></summary>
     <a href="https://www.linkedin.com/in/julio-lazarte-developer/" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin&perline=14" /> 
     </a>
-        <summary><h2 style="display: inline-block">My email</h2></summary>
+        <summary><h2>My email</h2></summary>
         <img height="100px" width="100px" src="https://i.imgur.com/SsXk3TF.png" alt="QR cv web">
   </ul>
 </div>
 
-<p align="center"><strong>Last Edited on: 21/march/2024</strong></p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=45&center=true&vCenter=true&duration=1200&width=1400&height=100&lines=Thank+you+for+your+visit">
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=45&center=true&vCenter=true&duration=1200&width=1400&height=100&lines=If+you+like+my+projects+give+me+a+⭐star⭐">
 </p>
-
+<hr>
+<p align="center"><strong>Last Edited on: 21/march/2024</strong></p>
 </body>
