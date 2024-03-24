@@ -156,15 +156,15 @@
 
 <div id="user-content-toc">
         <h2 align="center">Connect With Me🤝</h2>
-  <table align="center">
+  <table align="center" height="80px">
     <tr>
-      <td>
+      <td  height="80px">
         <a href="https://www.linkedin.com/in/julio-lazarte-developer/" target="_blank">
-          <img src="https://skillicons.dev/icons?i=linkedin&perline=14" /> 
+          <img src="https://skillicons.dev/icons?i=linkedin&perline=16" /> 
         </a>
       </td>
       <td>
-        <img height="80px" width="80px" src="https://i.imgur.com/SsXk3TF.png" alt="QR cv web">
+        <img height="60px" width="60px" src="https://i.imgur.com/SsXk3TF.png" alt="QR cv web">
       </td>
     </tr>
   </table>
