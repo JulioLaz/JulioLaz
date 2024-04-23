@@ -26,7 +26,7 @@
 <!--           ### links ### -->
           <p>
 <!--             ### GITHUB ###   -->                   
-            <a href="https://github.com/JulioLaz/store_sales_analysis_sqlite/blob/main/Store_Sales_Analysis_SQL_final.ipynb" target="_blank"> -->
+            <a href="https://github.com/JulioLaz/store_sales_analysis_sqlite/blob/main/Store_Sales_Analysis_SQL_final.ipynb" target="_blank">
                 <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
             </a>
 <!--             ### SLIDE ### -->
