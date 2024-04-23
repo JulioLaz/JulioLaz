@@ -12,8 +12,34 @@
             <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=6784f9&background=fae280&size=40&center=true&vCenter=true&width=1000&height=60&duration=800&lines=Most+prominent+projects">  
         </h2>
         <img  src="https://i.imgur.com/wcHiYE6.png" alt="Proyecto Consumer Spending Prediction">
+
+### TABLA NÚMERO 1 ###
 <table>
   <tr>
+    <td width="32.5%">
+      <div align="center">
+        <h2 align="center">Store Sales Analysis</h2>
+        <a href="https://github.com/JulioLaz/store_sales_analysis_sqlite/blob/main/Store_Sales_Analysis_SQL_final.ipynb">
+          <img height="150" src="https://i.imgur.com/OQwMBNu.gif" alt="Proyecto Store Sales Analysis">
+        </a> 
+        <p align="justify">"A supermarket chain operating in Brazil wants to gain insights into the sales of its products."</p>
+<!--           ### links ### -->
+          <p>
+            ### GITHUB ###                      
+            <a href="https://github.com/JulioLaz/store_sales_analysis_sqlite/blob/main/Store_Sales_Analysis_SQL_final.ipynb" target="_blank">
+                <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+            ### SLIDE ###
+            <a href="https://www.canva.com/design/DAGCuWoQXa0/Iu5yWSI2WK3jl9vzLecuAw/edit?utm_content=DAGCuWoQXa0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
+                <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=green">
+            </a>
+            ### YOUTUBE ###
+            <a href="XXX" target="_blank">
+                <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
+            </a>
+          </p>          
+      </div>
+  </td>              
     <td width="32.5%">
       <div align="center">
         <h2 align="center">Consumer Spending Prediction</h2>
@@ -53,6 +79,12 @@
           </p>          
       </div>
     </td>
+  </tr>
+</table>
+
+### TABLA NÚMERO 2 ###
+<table>
+  <tr>
     <td width="32.5%">
       <div align="center">
         <h2 align="center">COVID19 Analytics Global and country Argentina</h2>
@@ -70,12 +102,7 @@
             </a>
           </p>          
       </div>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
+    </td>              
     <td width="32.5%">
       <div align="center">
         <h2 align="center">Credit Scoring Prediction</h2>
@@ -117,7 +144,13 @@
             </a>
           </p>          
       </div>
-    </td>
+  </td>
+  </tr>
+</table>
+
+### TABLA NÚMERO 3 ###
+<table>
+  <tr>
     <td width="32.5%">
       <div align="center">
         <h2 align="center">Robot Trading</h2>
