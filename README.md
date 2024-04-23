@@ -19,7 +19,7 @@
         <h2 align="center">Consumer Spending Prediction</h2>
         <a href="https://github.com/JulioLaz/Consumer_Spending_Prediction_final">
           <img height="150" src="https://data.bloggif.com/distant/user/store/9/7/6/9/295848bfdfd7c2bb07089c0974d69679.gif" alt="Proyecto Consumer Spending Prediction">
-<!--           <img src="https://i.imgur.com/DZ3C6oq.png" alt="Proyecto Consumer Spending Prediction"> -->
+<!--           <img src="https://i.imgur.com/H0AImEN.gif" alt="Proyecto Consumer Spending Prediction"> -->
         </a>
         <p align="justify">Development of a machine learning model that accurately predicts how much a user will spend when visiting the website.</p>
 <!--           ### links ### -->
@@ -38,7 +38,7 @@
         <h2 align="center">Breast Care: Tumor Prediction</h2>
         <a href="https://github.com/JulioLaz/breast_cancer_nb">
           <img height="150" src="https://data.bloggif.com/distant/user/store/9/d/b/0/c642322bd0354e57887f08fcc4fe0bd9.gif" alt="Proyecto Breast Care: tumor">
-<!--           <img src="https://i.imgur.com/ib4Ihxp.png" alt="Proyecto Breast Care: tumor"> -->
+<!--           <img src="https://i.imgur.com/fg0RJfy.gif" alt="Proyecto Breast Care: tumor"> -->
         </a> 
         <p align="justify">Machine learning: predicts if a tumor is malignant or benign based on data obtained from characteristics calculated from a digitized image.</p>
 <!--           ### links ### -->
@@ -59,7 +59,7 @@
       <div align="center">
         <h2 align="center">COVID19 Analytics Global and country Argentina</h2>
         <a href="https://github.com/JulioLaz/covid19_analytics">
-          <img height="150" src="https://data.bloggif.com/distant/user/store/1/3/d/d/a93fe7f9f3d81c483092bb6f91a5dd31.gif" alt="Proyecto COVID19 Analytics">
+          <img height="150" src="https://data.bloggif.com/distant/user/store/e/5/5/4/acf8e12c82bacd3739fbb866fe86455e.gif" alt="Proyecto COVID19 Analytics">
         </a> 
         <p align="justify">"Analysis of COVID-19 among the most affected countries compared to Argentina."</p>
 <!--           ### links ### -->
