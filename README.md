@@ -13,7 +13,7 @@
         </h2>
         <img  src="https://i.imgur.com/wcHiYE6.png" alt="Proyecto Consumer Spending Prediction">
 
-### TABLA NÚMERO 1 ###
+<!-- ### TABLA NÚMERO 1 ### -->
 <table>
   <tr>
     <td width="32.5%">
@@ -25,15 +25,15 @@
         <p align="justify">"A supermarket chain operating in Brazil wants to gain insights into the sales of its products."</p>
 <!--           ### links ### -->
           <p>
-            ### GITHUB ###                      
-            <a href="https://github.com/JulioLaz/store_sales_analysis_sqlite/blob/main/Store_Sales_Analysis_SQL_final.ipynb" target="_blank">
+<!--             ### GITHUB ###   -->                   
+            <a href="https://github.com/JulioLaz/store_sales_analysis_sqlite/blob/main/Store_Sales_Analysis_SQL_final.ipynb" target="_blank"> -->
                 <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
             </a>
-            ### SLIDE ###
+<!--             ### SLIDE ### -->
             <a href="https://www.canva.com/design/DAGCuWoQXa0/Iu5yWSI2WK3jl9vzLecuAw/edit?utm_content=DAGCuWoQXa0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
                 <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=green">
             </a>
-            ### YOUTUBE ###
+<!--             ### YOUTUBE ### -->
             <a href="XXX" target="_blank">
                 <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
             </a>
@@ -82,7 +82,7 @@
   </tr>
 </table>
 
-### TABLA NÚMERO 2 ###
+<!-- ### TABLA NÚMERO 2 ### -->
 <table>
   <tr>
     <td width="32.5%">
@@ -148,7 +148,7 @@
   </tr>
 </table>
 
-### TABLA NÚMERO 3 ###
+<!-- ### TABLA NÚMERO 3 ### -->
 <table>
   <tr>
     <td width="32.5%">
