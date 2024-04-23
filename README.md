@@ -80,7 +80,7 @@
       <div align="center">
         <h2 align="center">Credit Scoring Prediction</h2>
         <a href="https://github.com/JulioLaz/credit_scoring_predict">
-          <img height="150" src="https://data.bloggif.com/distant/user/store/6/e/c/0/c007905c4ffb8580d4639f20ace90ce6.gif" alt="Proyecto Credit Scoring Prediction">
+          <img height="150" src="https://i.imgur.com/8tOLzBY.gif" alt="Proyecto Credit Scoring Prediction">
         </a>
         <p align="justify">"Credit acceptance prediction through binary classification."</p>
 <!--           ### links ### -->
@@ -101,7 +101,7 @@
       <div align="center">
         <h2 align="center">Supermarker Sales Analysis</h2>
         <a href="https://github.com/JulioLaz/Supermarket_Sales_Analysis.git">
-          <img height="150" src="https://data.bloggif.com/distant/user/store/f/d/5/6/56757b86d1929d5de72cb2c039dd65df.gif" alt="Proyecto Supermarker Sales Analysis">
+          <img height="150" src="https://i.imgur.com/kmwhP7z.gif" alt="Proyecto Supermarker Sales Analysis">
         </a> 
         <p align="justify">"A supermarket chain operating in Brazil wants to gain insights into the sales of its products."</p>
 <!--           ### links ### -->
