@@ -22,7 +22,7 @@
         <a href="https://github.com/JulioLaz/store_sales_analysis_sqlite/blob/main/Store_Sales_Analysis_SQL_final.ipynb">
           <img height="150" src="https://i.imgur.com/OQwMBNu.gif" alt="Proyecto Store Sales Analysis">
         </a> 
-        <p align="justify">"A supermarket chain operating in Brazil wants to gain insights into the sales of its products."</p>
+        <p align="justify">"Using insider information from an online fashion store in Brazil, I will analyze the data to obtain insights that will increase Net Profits."</p>
 <!--           ### links ### -->
           <p>
 <!--             ### GITHUB ###   -->                   
