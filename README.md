@@ -30,7 +30,7 @@
                 <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
             </a>
 <!--             ### SLIDE ### -->
-            <a href="https://www.canva.com/design/DAGCuWoQXa0/Iu5yWSI2WK3jl9vzLecuAw/edit?utm_content=DAGCuWoQXa0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
+            <a href="https://drive.google.com/file/d/1WDNInmF-4GKMi5KTDLdd46hTsbgP4XHE/view?usp=sharing" target="_blank">
                 <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=green">
             </a>
 <!--             ### YOUTUBE ### -->
