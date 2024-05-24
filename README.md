@@ -89,7 +89,7 @@
       <div align="center">
         <h2 align="center">COVID19 Analytics Global and country Argentina</h2>
         <a href="https://github.com/JulioLaz/covid19_analytics">
-          <img height="150" src="https://data.bloggif.com/distant/user/store/e/5/5/4/acf8e12c82bacd3739fbb866fe86455e.gif" alt="Proyecto COVID19 Analytics">
+          <img height="150" src="https://i.imgur.com/eOYpgdw.gif" alt="Proyecto COVID19 Analytics">
         </a> 
         <p align="justify">"Analysis of COVID-19 among the most affected countries compared to Argentina."</p>
 <!--           ### links ### -->
