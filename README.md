@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=f77136&size=50&center=true&vCenter=true&width=1300&height=60&duration=1200&lines=+++Hi,+I'm+Julio+Lazarte+++">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=f77136&size=50&center=true&vCenter=true&width=1300&height=30&duration=1200&lines=-----------------------">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=07b03b&size=35&center=true&vCenter=true&width=1300&height=40&duration=2000&lines=Visit+my+web+portfolio">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=07b03b&size=35&center=true&vCenter=true&width=1300&height=40&duration=2000&lines=Click+image+or+scan+code">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=07b03b&size=35&center=true&vCenter=true&width=1300&height=40&duration=2000&lines=Click+image">
     <a href="https://cv-lazarte-julio.web.app/" target="_blank"><img align="center" width="80%" src="https://i.imgur.com/VJRTLzU.gif" alt="QR cv web"></a>
 <!--     <a href="https://cv-lazarte-julio.web.app/" target="_blank"><img align="center" width="80%" src="https://i.imgur.com/mEvImEo.gif" alt="QR cv web"></a> -->
 <!--     <a href="https://cv-lazarte-julio.web.app/" target="_blank"><img align="center" width="80%" src="https://i.imgur.com/vwjUS2W.png" alt="QR cv web"></a> -->
