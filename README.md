@@ -62,9 +62,9 @@
       <div align="center">
         <h2 align="center">Financial Fraud Detection</h2>
         <a href="https://github.com/JulioLaz/financial_fraud_detection/blob/main/Financial_Fraud_Detection_JAL.ipynb">
-          <img height="150" src="https://i.imgur.com/LKRIYin.gif" alt="Financial Fraud Detection">
+          <img height="150" src="https://i.imgur.com/h6NKNE9.gif" alt="Financial Fraud Detection">
         </a> 
-        <p align="justify">Machine learning: predicts if a tumor is malignant or benign based on data obtained from characteristics calculated from a digitized image.</p>
+        <p align="justify">Modelo de machine learning que distingue de manera precisa (98%) entre transacciones legítimas y fraudulentas.</p>
 <!-- ### links ### -->
           <p>
             <a href="https://github.com/JulioLaz/financial_fraud_detection/blob/main/Financial_Fraud_Detection_JAL.ipynb" target="_blank">
