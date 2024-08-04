@@ -11,9 +11,8 @@
 <!--     <a href="https://cv-lazarte-julio.web.app/" target="_blank"><img align="center" width="80%" src="https://i.imgur.com/vwjUS2W.png" alt="QR cv web"></a> -->
 </div>
         <h2 align="center">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=6784f9&background=fae280&size=40&center=true&vCenter=true&width=1000&height=60&duration=800&lines=Most+prominent+projects">  
-        </h2>
-        <img  src="https://i.imgur.com/wcHiYE6.png" alt="Proyecto Consumer Spending Prediction">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=6784f9&background=fae280&size=40&center=true&vCenter=true&width=1000&height=60&duration=800&lines=Most+prominent+projects">          </h2>
+        <img  src="https://i.imgur.com/wcHiYE6.png" alt="roadmap">
 
 <!-- ### TABLA NÚMERO 1 ### -->
 <table>
@@ -28,26 +27,15 @@
         <p align="justify">"Dashboard interactivo con Streamlit de análisis de ventas de tienda online de Brasil."</p>
 <!--### links ### -->
           <p>
-<!--### GITHUB ###-->                   
             <a href="https://github.com/JulioLaz/dashboard_store_sale/blob/main/dashboard.py" target="_blank">
                 <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
             </a>
-<!--### SLIDE ### -->
-<!--             <a href="https://drive.google.com/file/d/1WDNInmF-4GKMi5KTDLdd46hTsbgP4XHE/view?usp=sharing" target="_blank">
-                <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=green">
-            </a> -->
-<!--### YOUTUBE ### -->
-<!--             <a href="XXX" target="_blank">
-                <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
-            </a> -->
-<!--### APP ### --> 
             <a href="https://dashboard-sales-brasil.streamlit.app/" target="_blank">
                 <img src="https://img.shields.io/badge/APP-dimgray?style=for-the-badge&color=blue">
             </a>
           </p>          
       </div>
   </td>
-              
 <!-- ### segunda fila ###-->
     <td width="32.5%">
       <div align="center">
@@ -69,7 +57,6 @@
           </p>
       </div>
     </td>
-              
 <!-- ### tercer fila ###-->
     <td width="32.5%">
       <div align="center">
