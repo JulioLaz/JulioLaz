@@ -18,6 +18,80 @@
 <!-- ### TABLA NÚMERO 1 ### -->
 <table>
   <tr>
+<!-- ### primer fila ###-->
+    <td width="32.5%">
+      <div align="center">
+        <h2 align="center">Bashboard Interactive</h2>
+        <a href="https://dashboard-sales-brasil.streamlit.app/">
+          <img height="150" src="https://i.imgur.com/hD2uFzA.gif" alt="dashboard">
+        </a> 
+        <p align="justify">"Dashboard interactivo con Streamlit de análisis de ventas de tienda online de Brasil."</p>
+<!--### links ### -->
+          <p>
+<!--### GITHUB ###-->                   
+            <a href="https://github.com/JulioLaz/dashboard_store_sale/blob/main/dashboard.py" target="_blank">
+                <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+<!--### SLIDE ### -->
+<!--             <a href="https://drive.google.com/file/d/1WDNInmF-4GKMi5KTDLdd46hTsbgP4XHE/view?usp=sharing" target="_blank">
+                <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=green">
+            </a> -->
+<!--### YOUTUBE ### -->
+<!--             <a href="XXX" target="_blank">
+                <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
+            </a> -->
+<!--### APP ### --> 
+            <a href="https://dashboard-sales-brasil.streamlit.app/" target="_blank">
+                <img src="https://img.shields.io/badge/APP-dimgray?style=for-the-badge&color=blue">
+            </a>
+          </p>          
+      </div>
+  </td>
+              
+<!-- ### segunda fila ###-->
+    <td width="32.5%">
+      <div align="center">
+        <h2 align="center">Movie Analysis</h2>
+        <a href="https://juliolazarte.my.canva.site/movie-analysis">
+          <img height="150" src="https://i.imgur.com/HqYU2bB.gif" alt="Proyecto Consumer Spending Prediction">
+        </a>
+        <p align="justify">Insights de plataforma de streaming para impulsar su rendimiento y experiencia del cliente.</p>
+<!-- ### links ### -->
+<!--### GITHUB ###-->                   
+          <p>
+            <a href="https://github.com/JulioLaz/movie_analysis/blob/main/Movie_Analysis_JAL.ipynb" target="_blank">
+            <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+<!--### SLIDE ### -->
+            <a href="https://juliolazarte.my.canva.site/movie-analysis" target="_blank">
+            <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=green">
+            </a>
+          </p>
+      </div>
+    </td>
+              
+<!-- ### tercer fila ###-->
+    <td width="32.5%">
+      <div align="center">
+        <h2 align="center">Financial Fraud Detection</h2>
+        <a href="https://github.com/JulioLaz/financial_fraud_detection/blob/main/Financial_Fraud_Detection_JAL.ipynb">
+          <img height="150" src="https://i.imgur.com/LKRIYin.gif" alt="Financial Fraud Detection">
+        </a> 
+        <p align="justify">Machine learning: predicts if a tumor is malignant or benign based on data obtained from characteristics calculated from a digitized image.</p>
+<!-- ### links ### -->
+          <p>
+            <a href="https://github.com/JulioLaz/financial_fraud_detection/blob/main/Financial_Fraud_Detection_JAL.ipynb" target="_blank">
+                <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+          </p>          
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- ### TABLA NÚMERO 2 ### -->
+<table>
+  <tr>
     <td width="32.5%">
       <div align="center">
         <h2 align="center">Store Sales Analysis</h2>
@@ -84,7 +158,7 @@
   </tr>
 </table>
 
-<!-- ### TABLA NÚMERO 2 ### -->
+<!-- ### TABLA NÚMERO 3 ### -->
 <table>
   <tr>
     <td width="32.5%">
@@ -150,7 +224,7 @@
   </tr>
 </table>
 
-<!-- ### TABLA NÚMERO 3 ### -->
+<!-- ### TABLA NÚMERO 4 ### -->
 <table>
   <tr>
     <td width="32.5%">
