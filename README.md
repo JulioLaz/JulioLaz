@@ -21,7 +21,7 @@
     <td width="50%">
       <div align="center">
         <h2 align="center">Sentiment classifier</h2>
-        <a href="https://analyzerreviewfood-production.up.railway.app/">
+        <a href="https://analyzerreviewfood-production.up.railway.app/" target="_blank">
           <img height="150" src="https://i.imgur.com/JeSH8qd.gif" alt="dashboard">
         </a> 
         <p align="justify">"App that analyzes the sentiment of comments. Model: SGDClassifier whit tfidfVectorizer & API Gemini. Frontend: Flask, Tailwind CSS & Plotly."</p>
@@ -40,8 +40,8 @@
     <td width="50%">
       <div align="center">
         <h2 align="center">Movie Recommender</h2>
-        <a href="https://juliolazarte.my.canva.site/cinemio-show-jal">
-          <img height="150" src="https://i.imgur.com/08ioMd9.mp4" alt="Movie Recommender">
+        <a href="https://github.com/JulioLaz/Movie_Recommender_System_ML" target="_blank">
+          <img height="150" src="https://i.imgur.com/I7emDsC.gif" alt="Movie Recommender">
         </a>
         <p align="justify">System that combines collaborative filtering (KNN) and content-based filtering (TF-IDF, cosine and Jaccard similarity) to provide personalized suggestions to users, in addition to general recommendations based on Bayesian averages.</p>
 <!-- ### links ### -->
@@ -65,7 +65,7 @@
     <td width="32.5%">
       <div align="center">
         <h2 align="center">Bashboard Interactive</h2>
-        <a href="https://dashboard-sales-brasil.streamlit.app/">
+        <a href="https://dashboard-sales-brasil.streamlit.app/" target="_blank">
           <img height="150" src="https://i.imgur.com/hD2uFzA.gif" alt="dashboard">
         </a> 
         <p align="justify">"Dashboard interactivo con Streamlit de análisis de ventas de tienda online de Brasil."</p>
