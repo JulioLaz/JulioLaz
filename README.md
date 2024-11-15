@@ -20,17 +20,17 @@
 <!-- ### primera ###-->
     <td width="50%">
       <div align="center">
-        <h2 align="center">Bashboard Interactive</h2>
-        <a href="https://dashboard-sales-brasil.streamlit.app/">
-          <img height="150" src="https://i.imgur.com/hD2uFzA.gif" alt="dashboard">
+        <h2 align="center">Sentiment classifier</h2>
+        <a href="https://analyzerreviewfood-production.up.railway.app/">
+          <img height="150" src="https://i.imgur.com/JeSH8qd.gif" alt="dashboard">
         </a> 
-        <p align="justify">"Dashboard interactivo con Streamlit de análisis de ventas de tienda online de Brasil."</p>
+        <p align="justify">"App that analyzes the sentiment of comments. Model: SGDClassifier whit tfidfVectorizer & API Gemini. Frontend: Flask, Tailwind CSS & Plotly."</p>
 <!--### links ### -->
           <p>
-            <a href="https://github.com/JulioLaz/dashboard_store_sale/blob/main/dashboard.py" target="_blank">
+            <a href="https://github.com/JulioLaz/analyzer_review_food" target="_blank">
                 <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
             </a>
-            <a href="https://dashboard-sales-brasil.streamlit.app/" target="_blank">
+            <a href="https://analyzerreviewfood-production.up.railway.app/" target="_blank">
                 <img src="https://img.shields.io/badge/APP-dimgray?style=for-the-badge&color=blue">
             </a>
           </p>          
