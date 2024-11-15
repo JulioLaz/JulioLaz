@@ -41,7 +41,7 @@
       <div align="center">
         <h2 align="center">Movie Recommender</h2>
         <a href="https://juliolazarte.my.canva.site/cinemio-show-jal">
-          <img height="150" src="https://i.imgur.com/sciekAA.gif" alt="Movie Recommender">
+          <img height="150" src="https://i.imgur.com/08ioMd9.mp4" alt="Movie Recommender">
         </a>
         <p align="justify">System that combines collaborative filtering (KNN) and content-based filtering (TF-IDF, cosine and Jaccard similarity) to provide personalized suggestions to users, in addition to general recommendations based on Bayesian averages.</p>
 <!-- ### links ### -->
