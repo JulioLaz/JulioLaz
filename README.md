@@ -41,7 +41,7 @@
       <div align="center">
         <h2 align="center">Movie Recommender</h2>
         <a href="https://github.com/JulioLaz/Movie_Recommender_System_ML" target="_blank">
-          <img height="150" src="https://www.canva.com/design/DAGQTx4fVCw/iMRLFofvjMKJ8KShPAGBjA/watch?utm_content=DAGQTx4fVCw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he30e78d4d3" alt="Movie Recommender">
+          <img height="150" src="https://www.canva.com/design/DAGQTx4fVCw/iMRLFofvjMKJ8KShPAGBjA/watch" alt="Movie Recommender">
         </a>
         <p align="justify">System that combines collaborative filtering (KNN) and content-based filtering (TF-IDF, cosine and Jaccard similarity) to provide personalized suggestions to users, in addition to general recommendations based on Bayesian averages.</p>
 <!-- ### links ### -->
