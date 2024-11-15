@@ -17,7 +17,7 @@
 <!-- ### TABLA NÚMERO 1 ### -->
 <table>
   <tr>
-<!-- ### primer fila ###-->
+<!-- ### primera ###-->
     <td width="32.5%">
       <div align="center">
         <h2 align="center">Bashboard Interactive</h2>
@@ -36,7 +36,69 @@
           </p>          
       </div>
   </td>
-<!-- ### segunda fila ###-->
+<!-- ### segunda ###-->
+    <td width="32.5%">
+      <div align="center">
+        <h2 align="center">Movie Recommender</h2>
+        <a href="https://juliolazarte.my.canva.site/cinemio-show-jal">
+          <img height="150" src="https://i.imgur.com/sciekAA.gif" alt="Movie Recommender">
+        </a>
+        <p align="justify">System that combines collaborative filtering (KNN) and content-based filtering (TF-IDF, cosine and Jaccard similarity) to provide personalized suggestions to users, in addition to general recommendations based on Bayesian averages.</p>
+<!-- ### links ### -->
+<!--### GITHUB ###-->                   
+          <p>
+            <a href="https://github.com/JulioLaz/Movie_Recommender_System_ML" target="_blank">
+            <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+<!--### SLIDE ### -->
+            <a href="https://juliolazarte.my.canva.site/cinemio-show-jal" target="_blank">
+            <img src="https://img.shields.io/badge/Slides-dimgray?style=for-the-badge&color=green">
+            </a>
+          </p>
+      </div>
+    </td>
+<!-- ### tercer ###-->
+    <td width="32.5%">
+      <div align="center">
+        <h2 align="center">Financial Fraud Detection</h2>
+        <a href="https://github.com/JulioLaz/financial_fraud_detection/blob/main/Financial_Fraud_Detection_JAL.ipynb">
+          <img height="150" src="https://i.imgur.com/h6NKNE9.gif" alt="Financial Fraud Detection">
+        </a> 
+        <p align="justify">Modelo de machine learning que distingue de manera precisa (98%) entre transacciones legítimas y fraudulentas.</p>
+<!-- ### links ### -->
+          <p>
+            <a href="https://github.com/JulioLaz/financial_fraud_detection/blob/main/Financial_Fraud_Detection_JAL.ipynb" target="_blank">
+                <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+          </p>          
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- ### TABLA NÚMERO 02 ### -->
+<table>
+  <tr>
+<!-- ### primera ###-->
+    <td width="32.5%">
+      <div align="center">
+        <h2 align="center">Bashboard Interactive</h2>
+        <a href="https://dashboard-sales-brasil.streamlit.app/">
+          <img height="150" src="https://i.imgur.com/hD2uFzA.gif" alt="dashboard">
+        </a> 
+        <p align="justify">"Dashboard interactivo con Streamlit de análisis de ventas de tienda online de Brasil."</p>
+<!--### links ### -->
+          <p>
+            <a href="https://github.com/JulioLaz/dashboard_store_sale/blob/main/dashboard.py" target="_blank">
+                <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+            <a href="https://dashboard-sales-brasil.streamlit.app/" target="_blank">
+                <img src="https://img.shields.io/badge/APP-dimgray?style=for-the-badge&color=blue">
+            </a>
+          </p>          
+      </div>
+  </td>
+<!-- ### segunda ###-->
     <td width="32.5%">
       <div align="center">
         <h2 align="center">Movie Analysis</h2>
@@ -57,7 +119,7 @@
           </p>
       </div>
     </td>
-<!-- ### tercer fila ###-->
+<!-- ### tercer ###-->
     <td width="32.5%">
       <div align="center">
         <h2 align="center">Financial Fraud Detection</h2>
@@ -76,7 +138,7 @@
   </tr>
 </table>
 
-<!-- ### TABLA NÚMERO 2 ### -->
+<!-- ### TABLA NÚMERO 03 ### -->
 <table>
   <tr>
     <td width="32.5%">
@@ -145,7 +207,7 @@
   </tr>
 </table>
 
-<!-- ### TABLA NÚMERO 3 ### -->
+<!-- ### TABLA NÚMERO 04 ### -->
 <table>
   <tr>
     <td width="32.5%">
@@ -211,7 +273,7 @@
   </tr>
 </table>
 
-<!-- ### TABLA NÚMERO 4 ### -->
+<!-- ### TABLA NÚMERO 05 ### -->
 <table>
   <tr>
     <td width="32.5%">
